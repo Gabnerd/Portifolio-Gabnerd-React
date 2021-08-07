@@ -1,0 +1,25 @@
+{
+  "name": "portifolio-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabnerd/Portifolio-Gabnerd-React.git"
+  },
+  "author": "Gabnerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabnerd/Portifolio-Gabnerd-React/issues"
+  },
+  "homepage": "https://github.com/Gabnerd/Portifolio-Gabnerd-React#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5"
+  }
+}
